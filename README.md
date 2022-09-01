@@ -36,4 +36,4 @@ I added a modified version of the <a href="https://github.com/PeaKend/BasicDAO/b
 * Some testing and refactoring
 
 ### Licence
-MIT 
+This project is licensed under the terms of the MIT license.
